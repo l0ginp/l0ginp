@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @l0ginp, Pratya Than
-- 💞️ Nice to meet you
+👋 Hello World 👋
